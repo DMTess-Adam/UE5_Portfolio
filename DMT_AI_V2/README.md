@@ -5,8 +5,8 @@ Version 2 of the encompassing AI module, built for War of Being and designed wit
 
 
 ## Built-in Patroling system
-Pathing nodes can be chained together and NPC's can assign them as their patrol routes. Visual helpers in Editor view help designers understand the patrol route.
+Pathing nodes can be chained together and NPC's can assign them as their patrol routes. Visual helpers in Editor view help designers understand the patrol route, with automatic Spline adjustments, conforming the visuals to the terrain for clean visualisation.
 
-![image](https://github.com/user-attachments/assets/60b95a70-2a3d-443d-ac19-534fb174f16f)
+![Uploading image.png…]()
 
 
