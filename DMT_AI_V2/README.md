@@ -9,7 +9,7 @@ Pathing nodes can be chained together and NPC's can assign them as their patrol 
 
 ![image](https://github.com/user-attachments/assets/104e927b-c73b-41b6-ad4f-094476c002fc)
 
-### Patrol node On Actor Arrival scripts 
+#### Patrol node On Actor Arrival scripts 
 Individual nodes support triggering custom scripts when a patrol actor reaches the node. Custom scripts follow a similar structure to Behavior Tree Tasks, with a single overrrideable Execute event exposed for custom blueprint logic.
 ![image](https://github.com/user-attachments/assets/f4efb1d4-2e0e-4fb9-9bb1-ab91c1ddde1c)
 
