@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\levelinstanceutils\\source\\levelinstanceutils\\private\\levelinstanceutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\sourcecontrol\\catalystdepot\\warofbeing\\intermediate\\build\\win64\\x64\\dmtesseracteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\levelinstanceutils\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\levelinstanceutils\\definitions.levelinstanceutils.h",
+            "d:\\sourcecontrol\\catalystdepot\\warofbeing\\plugins\\levelinstanceutils\\source\\levelinstanceutils\\public\\levelinstanceutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

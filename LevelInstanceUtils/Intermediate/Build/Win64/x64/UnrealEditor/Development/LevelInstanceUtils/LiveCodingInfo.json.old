@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LevelInstanceUtils.cpp.obj": [
+			"LevelInstanceActorManagerBase.gen.cpp.obj",
+			"LevelInstanceActorScriptBase.gen.cpp.obj",
+			"LevelInstanceActorScriptComponent.gen.cpp.obj",
+			"LevelInstanceRuntimeSubsystem.gen.cpp.obj",
+			"LevelInstanceUtils.init.gen.cpp.obj",
+			"SubLevelActorScriptBase.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"LevelInstanceRuntimeSubsystem.cpp.obj",
+			"LevelInstanceUtils.cpp.obj",
+			"SubLevelActorScriptBase.cpp.obj",
+			"LevelInstanceActorScriptComponent.cpp.obj",
+			"LevelInstanceActorManagerBase.cpp.obj",
+			"LevelInstancelActorScriptBase.cpp.obj"
+		]
+	}
+}
