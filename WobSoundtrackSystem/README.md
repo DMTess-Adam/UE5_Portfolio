@@ -15,6 +15,7 @@ Inhering from the template, setup of new music tracks is as simple as overriding
 ![image](https://github.com/user-attachments/assets/b2188dd8-8120-4092-ada5-e34e1f481156)
 
 Playing tracks is as simple as calling the SetSoundtrackByConfig function in the Soundtrack Subsystem, passing the appropriate file and volume data
+
 ![image](https://github.com/user-attachments/assets/32e9ed18-03c7-41f9-9fb7-d3f219a25944)
 
 
