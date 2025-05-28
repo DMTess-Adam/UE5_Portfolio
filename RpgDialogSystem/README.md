@@ -4,6 +4,10 @@
 ## Overview 
 A robust RPG dialog system that leverages Level Sequences to build dialog conversations with NPCs. With support for ambiguous Inventory and quest systems as well as internal state tracking for an NPC, opening up unlimited possibilities for dialog options per NPC. 
 
+[Demo](https://youtu.be/_dfELBeyVXk)
+
+
+
 ### Advanced Dialog start selection
 Mark certain dialog sequences as "intro" dialogs that are played on initial interaction, with advanced conditions and priorities for filtering to the appropriate sequence.  For example, First time interactions should play the first time sequence, subsequent interactions should start with the "returning" dialog.
 ![image](https://github.com/user-attachments/assets/d5e4492b-fb16-4be1-97a8-cfecceb8198d)
