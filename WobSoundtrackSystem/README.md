@@ -25,7 +25,7 @@ OST template analyses audio and triggers events based on filter thresholds. Any 
 ![image](https://github.com/user-attachments/assets/9cf05374-e30b-4e33-9271-b5c4d5fd6b10)
 
 ### Example implementation of audio driven gameplay
-https://youtu.be/gR4k6nj9cVM
+[![Video Title](https://img.youtube.com/vi/gR4k6nj9cVM/0.jpg)](https://youtu.be/gR4k6nj9cVM)
 
 ## State driven dynamic audio
 Soundtrack Plugin can be set to "Combat Mode" that listens for any events from NPC's state changes to switch between preset volume and track data based on the highest tracked NPC state (Patrol, Alert, Attack). Track and volume data can be set from blueprint level and can support any combination of templates and volumes as per requirement.
