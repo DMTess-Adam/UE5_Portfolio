@@ -16,7 +16,8 @@ Create unique conditions for a dialog per-NPC.  Adding refined control over dial
 
 ### Conditional player response options
 Limit dialog responses based on internal conditions such as items in inventory, acquired quests or internal NPC states.
-![image](https://github.com/user-attachments/assets/3cd35c2a-02f6-4895-b61d-ff141c178598)
+![image](https://github.com/user-attachments/assets/9caab925-1f4f-4a1a-bfb6-1c277ed2e537)
+
 
 
 ### Trigger state events
