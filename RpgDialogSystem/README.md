@@ -2,7 +2,7 @@
 #RPG Dialog System
 
 ## Overview 
-A robust RPG dialog system that leverages Level Sequences to build dialog conversations with NPCs. With support for ambiguous Inventory and quest systems as well as internal state tracking for an NPC, opening up unlimited possibilities for dialog options per NPC. 
+A robust RPG dialog system that leverages Level Sequences to build dialog conversations with NPCs. With support for ambiguous Inventory and quest systems as well as internal state tracking for an NPC, opening up unlimited possibilities for dialog options per NPC. This system is entirely self contained, leveraging interfaces for implementing into custom systems.
 
 [Demo](https://youtu.be/_dfELBeyVXk)
 
