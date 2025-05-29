@@ -11,3 +11,5 @@ Inventory system with support for maximum slots, dynamically stackable items and
  - values float based currency follows a percentile approach that grants a single unit of currency on reaching 1.0. Allowing for fractional collection of currencies to generate a single viable currency token.
 Inventory can support any number of each currency types, allowing multiple currencies to be tracked and collected simultaneously.
 Inventory items follow a simple ID based convention, allowing for Data Tables or external databases to store and manage item data.
+
+All algorithms for storing items are included, with functions exposed to blueprint for simple integration - including viability checks, with support for partial adding if all stacks/items cannot fit.
