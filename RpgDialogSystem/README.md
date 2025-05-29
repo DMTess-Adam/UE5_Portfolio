@@ -36,5 +36,6 @@ Dialog Subsystem handles spawning level sequences only when needed, removing unn
 
 ### Reusable and scalable Dialog Chains
 Entire sequence chains are defined in Data Assets, allowing multiple NPC's to reference the same chain where necessary. This is useful for representations of the same character in different levels, or generic dialog with lesser NPC's. Control entire chains from a single data point for easy management and scaling.
+
 ![image](https://github.com/user-attachments/assets/9d76d2c3-9ea6-4475-9a33-26146b86bde8)
 
