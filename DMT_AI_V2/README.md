@@ -1,7 +1,7 @@
 # DMTesseracT core AI Module (V2) 
 
 ## Overview 
-Version 2 of the encompassing AI module, built for War of Being and designed with the intention of being migratable for future projects. AI V2 covers the general needs of AI systems in conventional gaming. Capitalising on the engine's Perception component, the module uses perception stimulus events to drive NPC states and build and maintain lists of targets for each NPC with support for separating enemies and friendlies. A conventional AI Scripting system is exposed to blueprint to allow designers to easily create a variety of different behaviors based off the core perception events. 
+Version 2 of the encompassing AI module, built for War of Being and designed with the intention of being migratable for future projects. AI V2 covers the general needs of conventional AI systems in gaming. Capitalising on the engine's Perception component, the module uses perception stimulus events to drive NPC states and build and maintain lists of targets for each NPC with support for separating enemies and friendlies. A custom AI Scripting system is exposed to blueprint to allow designers to easily create a variety of different behaviors based off the core perception events. 
 
 
 ## AI Behavior component
@@ -16,7 +16,7 @@ AI Scripts inherit from a base script that manages a specific 3 state rule: Patr
 
 
 ## Built-in Patrol node system
-Pathing nodes can be chained together and NPC's can assign them as their patrol routes. Visual helpers in Editor view help designers understand the patrol route, with automatic Spline adjustments, conforming the visuals to the terrain for clean visualisation.
+Pathing nodes can be chained together and NPC's can assign them as their patrol routes. Visual helpers in Editor view help designers understand the patrol route, with automatic Spline adjustments, conforming the helpers to the terrain for clean visualisation.
 
 ![image](https://github.com/user-attachments/assets/104e927b-c73b-41b6-ad4f-094476c002fc)
 
