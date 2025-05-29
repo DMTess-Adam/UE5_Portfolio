@@ -16,7 +16,7 @@ AI Scripts inherit from a base script that manages a specific 3 state rule: Patr
 
 
 ## Built-in Patrol node system
-Pathing nodes can be chained together and NPC's can assign them as their patrol routes. Visual helpers in Editor view help designers understand the patrol route, with automatic Spline adjustments, conforming the visuals to the terrain for clean visualisation.
+Pathing nodes can be chained together and NPC's can assign them as their patrol routes. Visual helpers in Editor view help designers understand the patrol route, with automatic Spline adjustments, conforming the helpers to the terrain for clean visualisation.
 
 ![image](https://github.com/user-attachments/assets/104e927b-c73b-41b6-ad4f-094476c002fc)
 
