@@ -27,3 +27,10 @@ Limit dialog responses based on internal conditions such as items in inventory, 
 ### Trigger state events
 Trigger inventory and quest events when specific dialog choices are made or sequences are played. Or trigger a completely custom script when the sequence ends for more advanced events.
 ![image](https://github.com/user-attachments/assets/9d3f567b-42a1-4fef-8aa8-8fe9f6e96cb2)
+
+
+### Clean and easy implementation
+Handles spawning level sequences only when needed, removing unnecessary clutter from the world. 
+
+### Reusable and scalable Dialog Chains
+Entire sequence chains are defined in Data Assets, allowing multiple NPC's to reference the same chain where necessary. This is useful for representations of the same character in different levels, or generic dialog with lesser NPC's. Control entire chains from a single data point for easy management and scaling.
