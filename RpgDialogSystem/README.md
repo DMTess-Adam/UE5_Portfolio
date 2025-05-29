@@ -32,7 +32,7 @@ Trigger inventory and quest events when specific dialog choices are made or sequ
 
 
 ### Clean and easy implementation
-Handles spawning level sequences only when needed, removing unnecessary clutter from the world. 
+Dialog Subsystem handles spawning level sequences only when needed, removing unnecessary clutter from the world. 
 
 ### Reusable and scalable Dialog Chains
 Entire sequence chains are defined in Data Assets, allowing multiple NPC's to reference the same chain where necessary. This is useful for representations of the same character in different levels, or generic dialog with lesser NPC's. Control entire chains from a single data point for easy management and scaling.
